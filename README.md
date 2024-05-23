@@ -1,16 +1,16 @@
-## Hi there 👋
+## Oii pessoal!🩷
 
-<!--
-**eduardabastilha/eduardabastilha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Eduarda Bastilha, mas todos me chamam de Duda!
 
-Here are some ideas to get you started:
+-Estou estudando na [Alura](https://www.alura.com.br)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+-Gosto de ler livros, ouvir música e assistir filmes e séries 🎥📖
+
+-Irei utilizar esse espaço para compartilhar meus projeos escolares.
+
+- ### Você pode entrar em contato comigo pelo email:
+
+- 00001093334216sp@al.educacao.sp.gov.br
+
+  ![](https://media1.tenor.com/m/Q6rgr_3z9W0AAAAC/kiss.gif)
+
