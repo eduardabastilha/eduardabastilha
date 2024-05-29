@@ -2,7 +2,7 @@
 
 Meu nome é Eduarda Bastilha, mas todos me chamam de Duda!
 
--Estou estudando na [Alura](https://www.alura.com.br)
+-Estou estudando na [Alura](https://www.alura.com.br) diferentes tipos de programação como JavaScript e Scratch.
 
 -Gosto de ler livros, ouvir música e assistir filmes e séries 🎥📖
 
