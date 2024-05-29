@@ -1,6 +1,7 @@
 ## Oii pessoal!🩷
 
 Meu nome é Eduarda Bastilha, mas todos me chamam de Duda!
+Tenho 17 anos e estou no 2ºano do Ensino Médio.
 
 -Estou estudando na [Alura](https://www.alura.com.br) diferentes tipos de programação como JavaScript e Scratch.
 
